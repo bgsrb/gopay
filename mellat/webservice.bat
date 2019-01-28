@@ -1,0 +1,1 @@
+gowsdl -i -o mellat.go -p webservice ./ https://bpm.shaparak.ir/pgwchannel/services/pgw?wsdl=IPaymentGateway.wsdl
